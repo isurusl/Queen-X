@@ -22,10 +22,10 @@ global.socialm = "👸🏻ＱＵＥＥＮ-Ｘ ＢＯＴ👸🏻" //ur github or 
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //bot bomdy 
-global.ownernomer = "94719225807" //ur number
-global.premium = ['94719225807'] //ur premium number
-global.botname = '©Qᴜᴇᴇɴ-x ᴡᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ʙᴏᴛ' //ur bot name
-global.linkz = "https://chat.whatsapp.com/Fd5MPEBn7NQ1aviL4V5fa7" //your theme url which will be displayed on whatsapp
+global.ownernomer = "94781863697" //ur number
+global.premium = ['94781863697'] //ur premium number
+global.botname = '©Qᴜᴇᴇɴisu botᴡᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ʙᴏᴛ' //ur bot name
+global.linkz = "https://chat.whatsapp.com/LDtmECL9rS91f01DFnNpSq //your theme url which will be displayed on whatsapp
 global.websitex = "https:// no" //ur website to be displayed
 global.botscript = 'https://github.com/yureshkav/Queen-X' //script link
 global.themeemoji = "🛸" //ur theme emoji
